@@ -1,0 +1,3 @@
+Desafio:
+
+Como podemos fazer para visualizar no começo da planilha as contas com a data mais recente, ordenadas por valor da conta, do maior valor para o menor valor?
