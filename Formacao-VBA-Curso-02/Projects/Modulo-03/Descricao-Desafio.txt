@@ -1,0 +1,3 @@
+Desafio: 
+
+Imagine agora que precisaremos contar quantas contas a pagar temos em nossa planilha, mas só devem ser consideradas as contas com valor acima de R$ 50,00.
