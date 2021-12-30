@@ -1,2 +1,3 @@
 Desafio:
 
+Imagine que você não quer deixar ninguém digitar nenhum nome de conta [Descrição da Conta a Pagar] a pagar maior que 20, mas sabe que em algum momento pode ser necessário digitar um nome maior que este. Seria legal dar uma mensagem de alerta, mas que permita que a pessoa mantenha o dado digitado mesmo que infringindo a regra. Para fazer isso na validação de dados, precisamos de alguns cuidados.
