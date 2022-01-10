@@ -3,6 +3,8 @@ This repo is dedicated to studies with Excel. Functions, formulas and macros wit
 
 ---
 
-# About :book:
+## About :book:
 
-# Bugs :bug:
+## Bugs :bug:
+
+## License :book:
