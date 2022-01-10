@@ -7,4 +7,4 @@ This repo is dedicated to studies with Excel. Functions, formulas and macros wit
 
 ## Bugs :bug:
 
-## License :book:
+## License :closed_book:
